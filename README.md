@@ -10,15 +10,15 @@
 [![LinkedIn](https://user-images.githubusercontent.com/282759/84680162-4161a300-af00-11ea-912c-8f32e5cc1676.png)](https://www.linkedin.com/in/jones-mbindyo/)
 
 ### Blog posts
-* [Key android developer best practices to keep in mind.](https://dev.to/rocqjones/key-android-developer-best-practices-to-keep-in-mind-2k33)
-* [Hardcore on self-realization and self-actualization.](https://dev.to/rocqjones/hardcore-on-self-realization-and-self-actualization-2m4m)
+[Key android developer best practices to keep in mind.](https://dev.to/rocqjones/key-android-developer-best-practices-to-keep-in-mind-2k33)
+[Hardcore on self-realization and self-actualization.](https://dev.to/rocqjones/hardcore-on-self-realization-and-self-actualization-2m4m)
 
 ### About Jones
-* He loves technology and science.
-* A freelance (Programmer)
-* A developer who love solving complex problems with **Data Structures and Algorithm**.
-* He enjoys good music (hiphop, rnb, rocks & Afro music).
-* Finally, he's learning **Machine Learning**.
+He loves technology and science.<br>
+A freelance (Programmer)<br>
+A developer who love solving complex problems with **Data Structures and Algorithm**.<br>
+He enjoys good music (hiphop, rnb, rocks & Afro music).<br>
+Finally, he's learning **Machine Learning**.<br>
 
 
 
