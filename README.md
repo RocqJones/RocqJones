@@ -1,8 +1,8 @@
 <div align="center">
   
-![Welcome to my official GitHub profile of @RocqJones](https://user-images.githubusercontent.com/282759/84682528-c1d5d300-af03-11ea-9bfb-02854ad0cb20.gif)4
+![Welcome to my official GitHub profile of @RocqJones](https://user-images.githubusercontent.com/282759/84682528-c1d5d300-af03-11ea-9bfb-02854ad0cb20.gif)
 
-</div>
+
 
 ### Social platforms available
 
@@ -20,7 +20,7 @@
 * He enjoys good music (hiphop, rnb, rocks & Afro music).
 * Finally, he's learning **Machine Learning**.
 
-<div align="center">
+
 
 ![Under construction](https://user-images.githubusercontent.com/282759/84681715-8c7cb580-af02-11ea-85a4-05d069c72121.gif)
 
