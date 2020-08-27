@@ -14,12 +14,11 @@
 [Hardcore on self-realization and self-actualization.](https://dev.to/rocqjones/hardcore-on-self-realization-and-self-actualization-2m4m)
 
 ### About Jones
-He loves technology and science.<br>
-A freelance (Programmer)<br>
 A developer who love solving complex problems with **Data Structures and Algorithm**.<br>
 He enjoys good music (hiphop, rnb, rocks & Afro music).<br>
-Finally, he's learning **Machine Learning**.<br>
-
+He's learning **Machine Learning**.<br>
+He loves technology and science.<br>
+A freelancer (Programmer)<br>
 
 
 ![Under construction](https://user-images.githubusercontent.com/282759/84681715-8c7cb580-af02-11ea-85a4-05d069c72121.gif)
