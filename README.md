@@ -13,8 +13,9 @@
 * [Hardcore on self-realization and self-actualization.](https://dev.to/rocqjones/hardcore-on-self-realization-and-self-actualization-2m4m)
 
 ### About Jones
-**>>>** Complex problem solver with **Data Structures and Algorithm**.<br>
-**>>>** He enjoys good music (hiphop, rnb, rocks & Afro music).<br>
-**>>>** He's learning **Machine Learning**.<br>
-**>>>** He loves technology and science.<br>
-**>>>** A freelancer (Programmer)<br>
+**>>>** I solve complex problems with **Data Structures and Algorithm**.<br>
+**>>>** I enjoys good music (hiphop, rnb, rocks & Afro music).<br>
+**>>>** I'm learning **Machine Learning** & **Data Science**.<br>
+**>>>** I'm an Android App Developer (Java & Kotlin).<br>
+**>>>** Python is my favourite programming language.<br>
+**>>>** I loves technology, science and cars (BMW).<br>
