@@ -16,6 +16,6 @@
 **>>>** I solve complex problems with **Data Structures and Algorithm**.<br>
 **>>>** I enjoys good music (hiphop, rnb, rocks & Afro music).<br>
 **>>>** I'm learning **Machine Learning** & **Data Science**.<br>
-**>>>** I'm an Android App Developer (Java & Kotlin).<br>
 **>>>** Python is my favourite programming language.<br>
+**>>>** I'm an Android App Developer (Java & Kotlin).<br>
 **>>>** I loves technology, science and cars (BMW).<br>
