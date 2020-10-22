@@ -18,4 +18,4 @@
 **>>>** I'm learning **Machine Learning** & **Data Science**.<br>
 **>>>** Python is my favourite programming language.<br>
 **>>>** I also make Android Apps with (Java & Kotlin).<br>
-**>>>** I loves technology, science, music and cars (BMW).<br>
+**>>>** I loves technology, science, music and cars.<br>
