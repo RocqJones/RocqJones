@@ -13,9 +13,9 @@
 * [Hardcore on self-realization and self-actualization.](https://dev.to/rocqjones/hardcore-on-self-realization-and-self-actualization-2m4m)
 
 ### About Jones
+**>>>** I make websites with: ***HTML, CSS, JavaScript, Bootstrap4, Django, & Flask***.<br>
 **>>>** I solve complex problems with **Data Structures and Algorithm**.<br>
-**>>>** I enjoys good music (hiphop, rnb, rocks & Afro music).<br>
 **>>>** I'm learning **Machine Learning** & **Data Science**.<br>
 **>>>** Python is my favourite programming language.<br>
-**>>>** I'm an Android App Developer (Java & Kotlin).<br>
-**>>>** I loves technology, science and cars (BMW).<br>
+**>>>** I also make Android Apps with (Java & Kotlin).<br>
+**>>>** I loves technology, science, music and cars (BMW).<br>
