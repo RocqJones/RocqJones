@@ -13,7 +13,7 @@
 * [Hardcore on self-realization and self-actualization.](https://dev.to/rocqjones/hardcore-on-self-realization-and-self-actualization-2m4m)
 
 ### About Jones
-**>>>** I make websites with: ***HTML, CSS, JavaScript, Bootstrap4, Django, & Flask***.<br>
+**>>>** I make websites with: ***HTML, CSS, JavaScript, Bootstrap4, Django, Flask, React.JS & PHP***.<br>
 **>>>** I solve complex problems with **Data Structures and Algorithm**.<br>
 **>>>** I'm learning **Machine Learning** & **Data Science**.<br>
 **>>>** **Python** is my favourite programming language.<br>
