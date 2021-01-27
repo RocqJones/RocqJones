@@ -8,9 +8,13 @@
 
 </div>
 
-### Blog posts
-* [Key android developer best practices to keep in mind.](https://dev.to/rocqjones/key-android-developer-best-practices-to-keep-in-mind-2k33)
-* [Hardcore on self-realization and self-actualization.](https://dev.to/rocqjones/hardcore-on-self-realization-and-self-actualization-2m4m)
+### :octocat: My stats
+  <table>
+  <tr>
+      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=RocqJones&show_icons=true"/></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RocqJones&hide=css&layout=compact"/></td>      
+  </tr>   
+</table>
 
 ### About Jones
 **>>>** I make websites with: ***HTML, CSS, JavaScript, Bootstrap4, Django, Flask, React.JS & PHP***.<br>
