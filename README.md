@@ -14,11 +14,11 @@
 
 ### About
 **>>>** I make websites with: ***HTML, CSS, JavaScript, Bootstrap4, Django, Flask, React.JS & PHP***.<br>
-**>>>** I solve complex problems with **Data Structures and Algorithm**.<br>
+**>>>** With**Data Structures and Algorithm** in mind, I create optimized software solutions.<br>
 **>>>** I'm learning **Machine Learning** & **Data Science**.<br>
 **>>>** **Python** is my favourite programming language.<br>
 **>>>** I also make **Android Apps** with ***Java | Kotlin***.<br>
-**>>>** I loves technology, science, music and cars.<br>
+**>>>** I loves technology, **collaboration**, science, music, cars and **team building**.<br>
 
 ### Get in touch
 <p>
