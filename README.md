@@ -12,7 +12,7 @@
   </tr>   
 </table>
 
-### About Jones
+### About
 **>>>** I make websites with: ***HTML, CSS, JavaScript, Bootstrap4, Django, Flask, React.JS & PHP***.<br>
 **>>>** I solve complex problems with **Data Structures and Algorithm**.<br>
 **>>>** I'm learning **Machine Learning** & **Data Science**.<br>
