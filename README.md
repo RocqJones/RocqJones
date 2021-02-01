@@ -16,7 +16,7 @@
 **>>>** I make websites with: ***HTML, CSS, JavaScript, Bootstrap4, Django, Flask, React.JS & PHP***.<br>
 **>>>** With **Data Structures and Algorithm** in mind, I create optimized software solutions.<br>
 **>>>** I loves technology, **collaboration**, science, music, cars and **team building**.<br>
-**>>>** Proficient in making **Android Apps** with ***Java | Kotlin***.<br>
+**>>>** Proficient in making **Android Apps** with ***Kotlin | Java***.<br>
 **>>>** I'm learning **Machine Learning** & **Data Science**.<br>
 **>>>** **Python** is my favourite programming language.<br>
 
