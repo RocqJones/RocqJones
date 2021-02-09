@@ -14,5 +14,4 @@
   <a href="https://twitter.com/RocqJones"><img src="https://img.icons8.com/color/50/000000/twitter-squared.png" alt="twitter"/></a>
   <a href="https://www.linkedin.com/in/jones-mbindyo/"><img src="https://img.icons8.com/color/50/000000/linkedin.png" alt="linkedin"/></a>
   <a href="https://stackoverflow.com/users/11779588/rocqjones"><img src="https://img.icons8.com/color/50/000000/stackoverflow.png" alt="stackoverflow"/></a>
-  <a href="https://www.youracclaim.com/users/jonesmbindyo/badges"><img src="https://img.icons8.com/color/50/000000/ibm.png" alt="Acclaim"/></a>
 <p>
