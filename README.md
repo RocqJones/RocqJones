@@ -7,7 +7,7 @@
 ### :octocat: My stats :chart_with_upwards_trend:
 
 [![RocqJones's github stats](https://github-readme-stats.vercel.app/api?username=RocqJones&show_icons=true&line_height=21&show_icons=true&theme=vue&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RocqJones&show_icons=true&layout=compact&theme=vue&hide_border=true&langs_count=10&hide=html,css,jupyter%20notebook,shell)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RocqJones&show_icons=true&layout=compact&theme=vue&hide_border=true&langs_count=10&hide=html,css,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Get in touch
 <p>
