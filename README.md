@@ -8,17 +8,15 @@
 [![RocqJones's github stats](https://github-readme-stats.vercel.app/api?username=RocqJones&show_icons=true&line_height=21&show_icons=true&theme=vue&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RocqJones&show_icons=true&layout=compact&theme=vue&hide_border=true&langs_count=10&hide=html,css,jupyter%20notebook,hack)](https://github.com/anuraghazra/github-readme-stats)
 
+
+### Apps on Play Store 
+- [Verona Huruma Sacco (Contributor)](https://play.google.com/store/apps/details?id=com.extrainch.vhs)
+- [FiedForce (Lead Engineer)](https://play.google.com/store/apps/details?id=com.extrainchltd.fieldforce)
+- [Extra POS (Lead Engineer)](https://play.google.com/store/apps/details?id=com.extrainch.extrapos)
+
 ### Get in touch
 <p>
   <a href="https://twitter.com/RocqJones"><img src="https://img.icons8.com/color/50/000000/twitter-squared.png" alt="twitter"/></a>
   <a href="https://www.linkedin.com/in/jones-mbindyo/"><img src="https://img.icons8.com/color/50/000000/linkedin.png" alt="linkedin"/></a>
   <a href="https://stackoverflow.com/users/11779588/rocqjones"><img src="https://img.icons8.com/color/50/000000/stackoverflow.png" alt="stackoverflow"/></a>
 <p>
-
-
-### Apps on Play Store 
-<img src="https://img.icons8.com/color/48/000000/playstore.png"/><br>
-  
-- [Verona Huruma Sacco (Contributor)](https://play.google.com/store/apps/details?id=com.extrainch.vhs)
-- [FiedForce (Lead Engineer)](https://play.google.com/store/apps/details?id=com.extrainchltd.fieldforce)
-- [Extra POS (Lead Engineer)](https://play.google.com/store/apps/details?id=com.extrainch.extrapos)
