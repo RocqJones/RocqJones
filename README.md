@@ -14,3 +14,11 @@
   <a href="https://www.linkedin.com/in/jones-mbindyo/"><img src="https://img.icons8.com/color/50/000000/linkedin.png" alt="linkedin"/></a>
   <a href="https://stackoverflow.com/users/11779588/rocqjones"><img src="https://img.icons8.com/color/50/000000/stackoverflow.png" alt="stackoverflow"/></a>
 <p>
+
+
+### Apps on Play Store 
+<img src="https://img.icons8.com/color/48/000000/playstore.png"/><br>
+  
+- [Verona Huruma Sacco (Contributor)](https://play.google.com/store/apps/details?id=com.extrainch.vhs)
+- [FiedForce (Lead Engineer)](https://play.google.com/store/apps/details?id=com.extrainchltd.fieldforce)
+- [Extra POS (Lead Engineer)](https://play.google.com/store/apps/details?id=com.extrainch.extrapos)
