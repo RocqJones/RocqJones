@@ -10,6 +10,7 @@
 
 
 ### Apps on Play Store 
+- [Ngao Credit (Lead Enginner)](https://play.google.com/store/apps/details?id=com.extrainch.ngaocredit)
 - [Verona Huruma Sacco (Contributor)](https://play.google.com/store/apps/details?id=com.extrainch.vhs)
 - [FiedForce (Lead Engineer)](https://play.google.com/store/apps/details?id=com.extrainchltd.fieldforce)
 - [Extra POS (Lead Engineer)](https://play.google.com/store/apps/details?id=com.extrainch.extrapos)
