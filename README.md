@@ -10,9 +10,9 @@
 
 
 ### Apps on Play Store 
+- [Field Source (Co-Founder)](https://play.google.com/store/apps/details?id=com.apps.fieldsource)
 - [Ngao Credit (Lead Enginner)](https://play.google.com/store/apps/details?id=com.extrainch.ngaocredit)
 - [Verona Huruma Sacco (Contributor)](https://play.google.com/store/apps/details?id=com.extrainch.vhs)
-- [FieldForce (Lead Engineer)](https://play.google.com/store/apps/details?id=com.extrainchltd.fieldforce)
 - [Extra POS (Lead Engineer)](https://play.google.com/store/apps/details?id=com.extrainch.extrapos)
 
 ### Get in touch
