@@ -22,3 +22,6 @@
   <a href="https://www.linkedin.com/in/jones-mbindyo/"><img src="https://img.icons8.com/color/50/000000/linkedin.png" alt="linkedin"/></a>
   <a href="https://stackoverflow.com/users/11779588/rocqjones"><img src="https://img.icons8.com/color/50/000000/stackoverflow.png" alt="stackoverflow"/></a>
 <p>
+
+### Org. GitHub Activities
+[See my activity on company's profile...](https://github.com/JonesKil)
