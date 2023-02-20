@@ -10,12 +10,12 @@
 
 
 ### Apps on Play Store 
-- [mTek Insurance App (Engineer)](https://play.google.com/store/apps/details?id=com.hillcroft.apps.mtek)
-- [Ngao Credit (Lead Enginner)](https://play.google.com/store/apps/details?id=com.extrainch.ngaocredit)
-- [Verona Huruma Sacco (Contributor)](https://play.google.com/store/apps/details?id=com.extrainch.vhs)
+- [mTek Insurance App](https://play.google.com/store/apps/details?id=com.hillcroft.apps.mtek)
+- [Ngao Credit](https://play.google.com/store/apps/details?id=com.extrainch.ngaocredit)
+- [Verona Huruma Sacco](https://play.google.com/store/apps/details?id=com.extrainch.vhs)
 - [Incredo - KKVL](https://play.google.com/store/apps/details?id=com.extrainch.kkvl)
 - [Field Source (Co-Founder)](https://play.google.com/store/apps/details?id=com.apps.fieldsource)
-- [Extra POS (Lead Engineer)](https://play.google.com/store/apps/details?id=com.extrainch.extrapos)
+- [Extra POS](https://play.google.com/store/apps/details?id=com.extrainch.extrapos)
 
 ### Get in touch
 <p>
