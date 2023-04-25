@@ -5,10 +5,9 @@
 </div>
 
 ### :octocat: My stats :chart_with_upwards_trend:
-[![RocqJones's github stats](https://github-readme-stats.vercel.app/api?username=RocqJones&show_icons=true&line_height=21&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RocqJones&show_icons=true&layout=compact&theme=transparent&hide_border=true&langs_count=10&hide=html,css,jupyter%20notebook,hack)](https://github.com/anuraghazra/github-readme-stats)
-### Contributions
-![](https://github-readme-streak-stats.herokuapp.com/?user=RocqJones&theme=default&hide_border=false)<br/>
+[![RocqJones's github stats](https://github-readme-stats.vercel.app/api?username=RocqJones&show_icons=true&line_height=21&show_icons=true&theme=transparent&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=RocqJones&theme=transparent&hide_border=true)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RocqJones&show_icons=true&layout=compact&theme=transparent&hide_border=true&langs_count=10&hide=html,css,jupyter%20notebook,hack&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Apps on Play Store 
 - [mTek Insurance App](https://play.google.com/store/apps/details?id=com.hillcroft.apps.mtek)
