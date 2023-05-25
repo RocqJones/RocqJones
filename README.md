@@ -9,13 +9,14 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RocqJones&show_icons=true&layout=compact&theme=transparent&hide_border=true&langs_count=10&hide=html,css,jupyter%20notebook,hack&count_private=true)](https://github.com/anuraghazra/github-readme-stats)<br/>
 ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=RocqJones&theme=transparent&hide_border=true&mode=weekly)
 
-### Apps on Play Store 
-- [mTek Insurance App](https://play.google.com/store/apps/details?id=com.hillcroft.apps.mtek)
-- [Ngao Credit](https://play.google.com/store/apps/details?id=com.extrainch.ngaocredit)
-- [Verona Huruma Sacco](https://play.google.com/store/apps/details?id=com.extrainch.vhs)
-- [Incredo - KKVL](https://play.google.com/store/apps/details?id=com.extrainch.kkvl)
-- [Field Source (Co-Founder)](https://play.google.com/store/apps/details?id=com.apps.fieldsource)
-- [Extra POS](https://play.google.com/store/apps/details?id=com.extrainch.extrapos)
+| Apps on Play Store | Articles Published |
+| --- | --- |
+| - [mTek Insurance App](https://play.google.com/store/apps/details?id=com.hillcroft.apps.mtek) | 1. [Let's create notification reminder app in Jetpack Compose.](https://dev.to/rocqjones/lets-create-notification-reminder-app-in-jetpack-compose-2iae) |
+| - [Ngao Credit](https://play.google.com/store/apps/details?id=com.extrainch.ngaocredit) | 2. [Supercharge Your Android Apps with Effective Testing Strategies](https://dev.to/rocqjones/supercharge-your-android-apps-with-effective-testing-strategies-161p) |
+| - [Verona Huruma Sacco](https://play.google.com/store/apps/details?id=com.extrainch.vhs)| |
+| - [Incredo - KKVL](https://play.google.com/store/apps/details?id=com.extrainch.kkvl) | |
+| - [Field Source (Co-Founder)](https://play.google.com/store/apps/details?id=com.apps.fieldsource) | |
+| - [Extra POS](https://play.google.com/store/apps/details?id=com.extrainch.extrapos) | |
 
 ### Get in touch
 <p>
