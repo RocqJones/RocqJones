@@ -13,7 +13,7 @@
 | --- | --- |
 | - [mTek Insurance App](https://play.google.com/store/apps/details?id=com.hillcroft.apps.mtek) | 1. [Let's create notification reminder app in Jetpack Compose.](https://dev.to/rocqjones/lets-create-notification-reminder-app-in-jetpack-compose-2iae) |
 | - [Ngao Credit](https://play.google.com/store/apps/details?id=com.extrainch.ngaocredit) | 2. [Supercharge Your Android Apps with Effective Testing Strategies](https://dev.to/rocqjones/supercharge-your-android-apps-with-effective-testing-strategies-161p) |
-| - [Verona Huruma Sacco](https://play.google.com/store/apps/details?id=com.extrainch.vhs)| |
+| - [Verona Huruma Sacco](https://play.google.com/store/apps/details?id=com.extrainch.vhs)| 3. [Accessibility in Android Jetpack Compose](https://dev.to/rocqjones/accessibility-in-android-jetpack-compose-1m6)|
 | - [Incredo - KKVL](https://play.google.com/store/apps/details?id=com.extrainch.kkvl) | |
 | - [Field Source (Co-Founder)](https://play.google.com/store/apps/details?id=com.apps.fieldsource) | |
 | - [Extra POS](https://play.google.com/store/apps/details?id=com.extrainch.extrapos) | |
