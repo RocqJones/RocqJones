@@ -4,6 +4,8 @@
 
 </div>
 
+### Hi there 👋, Glad to see you here <img align="center" alt="Android" width="55" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif"/>
+
 ### :octocat: My stats :chart_with_upwards_trend:
 
 ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=RocqJones&theme=transparent&hide_border=true&mode=weekly)
