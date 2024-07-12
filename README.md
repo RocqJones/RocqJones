@@ -4,7 +4,7 @@
 
 </div>
 
-### Hi there 👋, you can call me Jones an enthusiastic Mobile Engineer and I'm Glad to see you here <img align="center" alt="Android" width="55" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif"/>
+### Hi there 👋, I'm an enthusiastic mobile engineer who loves discovering new technologies. <img align="center" alt="Android" width="55" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif"/>
 
 ### :octocat: My stats :chart_with_upwards_trend:
 
