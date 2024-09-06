@@ -4,14 +4,28 @@
 
 </div>
 
-### Hi there 👋, I'm an enthusiastic mobile engineer who loves discovering new technologies. <img align="center" alt="Android" width="55" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif"/>
+### Hi there 👋, here’s a little about me:
+---
+
+💻 **Mobile Engineer (Android & iOS):** Passionate about exploring new tech and building great apps!
+
+💡 **Accountable:** I own my work, embrace challenges, and strive for continuous improvement.
+
+🔧 **Reliable:** Consistency matters — I’m dependable and get things done.
+
+🤖 **User-Centric:** I leverage smart tools to enhance user experience through data and feedback.
+
+🌐 **Tech Community Volunteer:** I mentor aspiring developers and promote a collaborative tech space.
+
+---
+
 
 ### :octocat: My stats :chart_with_upwards_trend:
 
 ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=RocqJones&theme=transparent&hide_border=true&mode=weekly)
 <!-- [![RocqJones's github stats](https://github-readme-stats.vercel.app/api?username=RocqJones&show_icons=true&line_height=21&show_icons=true&theme=transparent&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
-| Apps on Play Store | Articles Published |
+| <img align="center" alt="Android" width="55" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif"/> Apps on Play Store  | 📝 Articles |
 | --- | --- |
 | - [mTek Insurance App](https://play.google.com/store/apps/details?id=com.hillcroft.apps.mtek) | - [Let's create notification reminder app in Jetpack Compose.](https://dev.to/rocqjones/lets-create-notification-reminder-app-in-jetpack-compose-2iae) |
 | - [Ngao Credit](https://play.google.com/store/apps/details?id=com.extrainch.ngaocredit) | - [Supercharge Your Android Apps with Effective Testing Strategies](https://dev.to/rocqjones/supercharge-your-android-apps-with-effective-testing-strategies-161p) |
