@@ -34,8 +34,6 @@
 | - [Field Source (Co-Founder)](https://play.google.com/store/apps/details?id=com.apps.fieldsource) | |
 | - [Extra POS](https://play.google.com/store/apps/details?id=com.extrainch.extrapos) | |
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RocqJones&show_icons=true&layout=compact&theme=transparent&hide_border=true&langs_count=10&hide=html,css,jupyter%20notebook,hack&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Get in touch
 <p>
   <a href="https://twitter.com/RocqJones"><img src="https://img.icons8.com/color/50/000000/twitter-squared.png" alt="twitter"/></a>
