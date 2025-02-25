@@ -11,9 +11,9 @@
 
 💡 **Accountable:** I own my work, embrace challenges, and strive for continuous improvement.
 
-🔧 **Reliable:** Consistency matters — I’m dependable and get things done.
+🔧 **Reliable:** Consistency defines me. I’m dependable and get things done.
 
-🤖 **User-Centric:** I leverage smart tools to enhance user experience through data and feedback.
+🤖 **User-Centric:** I leverage smart tools like AI to enhance user experience through data and feedback.
 
 🌐 **Tech Community Volunteer:** I mentor aspiring developers and promote a collaborative tech space.
 
